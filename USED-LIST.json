@@ -1,0 +1,126 @@
+{
+  "avoid_threshold": 3,
+  "batches_done": 1,
+  "channel": "Behind The Hug",
+  "components": {
+    "anchor": {
+      "C-A1_photo": 3,
+      "C-A2_letter": 1,
+      "C-A3_official_record": 2,
+      "C-A4_witness_testimony": 3
+    },
+    "branch": {
+      "Air Force": 2,
+      "Army": 3,
+      "Marines": 2,
+      "Navy": 1
+    },
+    "breed": {
+      "Australian Shepherd": 1,
+      "Basset Hound": 1,
+      "Beagle": 1,
+      "Belgian Malinois": 1,
+      "German Shepherd": 2,
+      "Golden Retriever": 1,
+      "Labrador Retriever": 1,
+      "Standard Poodle": 1
+    },
+    "ending": {
+      "E1_quotable_line": 3,
+      "E2_freeze_image": 4,
+      "E3_circle_back": 2
+    },
+    "narrator": {
+      "N1_warm_female": 3,
+      "N2_gentle_male": 2,
+      "N3_storyteller": 1,
+      "N4_intimate_whisper": 1,
+      "N5_dual": 1
+    },
+    "reveal": {
+      "R1_scent": 3,
+      "R2_sound": 1,
+      "R3_sight": 2,
+      "R4_touch": 2,
+      "R5_routine": 2,
+      "R6_voice": 2
+    },
+    "setting": {
+      "assisted_living": 1,
+      "bus_stop": 1,
+      "home_porch": 5,
+      "neighborhood": 1,
+      "shelter": 1,
+      "vet_clinic": 0
+    },
+    "twist": {
+      "T1_mistaken_identity": 1,
+      "T2_hidden_object": 2,
+      "T3_dog_knew_first": 3,
+      "T4_second_animal": 1,
+      "T5_time_twist": 2
+    }
+  },
+  "meta": {
+    "notes": "Pre-seeded 2026-09-19 from V1 (Shadow/Daniel) + Avatar Stories Vol.1 (Copper, Sunny, Rex/Frank).",
+    "updated": "2026-09-19"
+  },
+  "stories": [
+    {
+      "components": {
+        "anchor": "C-A1_photo",
+        "branch": "Army",
+        "breed": "German Shepherd",
+        "ending": "E1_quotable_line",
+        "narrator": "N1_warm_female",
+        "reveal": "R1_scent",
+        "setting": "home_porch",
+        "twist": "T3_dog_knew_first"
+      },
+      "id": "V1",
+      "title": "Soldier Returns After 3 Years \u2014 His Dog's Reaction Broke Millions of Hearts"
+    },
+    {
+      "components": {
+        "anchor": "C-A4_witness_testimony",
+        "branch": "Army",
+        "breed": "Beagle",
+        "ending": "E1_quotable_line",
+        "narrator": "N1_warm_female",
+        "reveal": "R2_sound",
+        "setting": "bus_stop",
+        "twist": "T5_time_twist"
+      },
+      "id": "S1",
+      "title": "He Waited at the Bus Stop for 2 Years"
+    },
+    {
+      "components": {
+        "anchor": "C-A2_letter",
+        "branch": "Army",
+        "breed": "Golden Retriever",
+        "ending": "E1_quotable_line",
+        "narrator": "N1_warm_female",
+        "reveal": "R6_voice",
+        "setting": "home_porch",
+        "twist": "T2_hidden_object"
+      },
+      "id": "S2",
+      "title": "The Soldier Wrote 200 Letters \u2014 But Only One Was for the Dog"
+    },
+    {
+      "components": {
+        "anchor": "C-A1_photo",
+        "branch": "Army",
+        "breed": "Belgian Malinois",
+        "ending": "E2_freeze_image",
+        "narrator": "N1_warm_female",
+        "reveal": "R1_scent",
+        "setting": "assisted_living",
+        "twist": "T3_dog_knew_first"
+      },
+      "id": "S3",
+      "title": "The Retired K9 Escaped to Find His Handler"
+    }
+  ]
+}
